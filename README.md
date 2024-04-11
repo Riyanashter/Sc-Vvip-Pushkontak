@@ -1,4 +1,4 @@
-[![Logo Image](https://cdn.pterodactyl.io/logos/new/pterodactyl_logo.png)](https://pterodactyl.io)
+[![Logo Image](https://cdn.pterodactyl.io/logos/new/pushkontakvvip_logo.png)](https://pushkontakvvip.io)
 
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/pterodactyl/panel/laravel.yaml?label=Tests&style=for-the-badge&branch=develop)
 ![Discord](https://img.shields.io/discord/122900397965705216?label=Discord&logo=Discord&logoColor=white&style=for-the-badge)
